@@ -5,7 +5,8 @@
 
 - 📝 I regularly write articles on [http://muratcnshn.liveblog365.com/?i=1](http://muratcnshn.liveblog365.com/?i=1)
 
-- 💬 Ask me about **My Expertise in Design and Development
+- 💬 Ask me about
+My Expertise in Design and Development
 Visual Communication Design
 In-depth knowledge of multidisciplinary design approaches, project visualization, and creative problem-solving. Creating effective visual strategies for creative projects.
 
@@ -19,7 +20,7 @@ User-centered design principles, prototyping with Figma, and optimizing user jou
 Expertise in realistic modeling, material design, and detailed scene creation. Using tools like Cinema 4D to produce interactive and visually rich 3D content.
 
 HTML and CSS
-Proficient in web design and development, creating visual layouts with stylesheets, and building responsive, user-friendly interfaces.**
+Proficient in web design and development, creating visual layouts with stylesheets, and building responsive, user-friendly interfaces.
 
 - 📫 How to reach me **muratcnshn24@gmail.com**
 
