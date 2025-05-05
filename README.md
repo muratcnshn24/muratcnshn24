@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muratcan Şahin</h1>
-<h3 align="center">Visual Communication Designer | Product Specialist | Game Developer</h3>
+<h3 align="center"></h3>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/muratcansahin](https://linktr.ee/muratcansahin)
 
