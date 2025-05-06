@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/muratcansahin](https://linktr.ee/muratcansahin)
 
-- 📝 I regularly write articles on [http://muratcnshn.liveblog365.com/?i=1](http://muratcnshn.liveblog365.com/?i=1)
-
 - 💬 Ask me about **My Expertise in Design and Development
 
 
