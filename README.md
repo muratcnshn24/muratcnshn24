@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/muratcansahin](https://linktr.ee/muratcansahin)
 
-- 💬 Ask me about **My Expertise in Design and Development
+- 💬 Ask me about ** Muratcan Şahin | Graphic Designer and Marketing Artist
 
 
 Visual Communication Design
